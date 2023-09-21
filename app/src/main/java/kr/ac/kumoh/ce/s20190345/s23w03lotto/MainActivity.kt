@@ -7,7 +7,6 @@ import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
     private lateinit var main: ActivityMainBinding
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         //setContentView(R.layout.activity_main)
